@@ -1,0 +1,2 @@
+- lpsnet.py是官方的
+- RePLPS.py是重参化版本，参照RepVGG写的。训练完成后，使用to_deploy.py合并卷积核
